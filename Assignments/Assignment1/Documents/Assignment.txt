@@ -1,0 +1,30 @@
+1.Different styles of communicating error outputs should be available
+
+a. Alternate returns
+b. Error code return
+c. Call an error handler
+d. Signal (in the sense of PL/1)
+E. All the above
+Ans:E
+
+2.Many of the parameters of a basic software component will be qualitatively different from the parameters of routines
+
+a.Choice of Precision
+b.Choice of Strategy
+c.Choice of Techniques
+D.None of the above
+Ans:a
+
+3.Time-space tradeoff by table lookup, adjustable in several ‘subdimensions’:
+a.Table size
+b.Quantization of inputs
+c.Output sequence
+d.bitmap indices
+Ans:a and b
+
+4.Software components (routines), to be widely applicable to different machines and users, should be available in
+families arranged according to ---------,-------------, ------------ and -------------
+Ans:precision,  robustness, generality and timespace performance
+
+5.In the phrase ‘mass production techniques,’ my emphasis is on ‘-----------’ and not on --------------.
+Ans:techniques, mass production plain
